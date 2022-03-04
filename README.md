@@ -10,7 +10,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |3|Sanjaysinh Zala|https://twitter.com/SgHere_|
 |4|Ansh Varun|https://twitter.com/anshcasm|
 |5|Osada Vidath Chandrasekara|https://twitter.com/OsadaVidath|
-|6|Sagnik Sahoo|https://twitter.com/heysagnik|
+|6|Sagnik Sahoo|https://twitter.com/heysagnik|https://github.com/heysagnik|
 |7|Suraj Vishwakarma|https://twitter.com/surajondev|
 |8|Avneesh Agarwal|https://twitter.com/avneesh0612|
 |9|Sam Kihika|https://twitter.com/KihikaSamuel|
