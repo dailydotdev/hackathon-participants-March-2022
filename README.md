@@ -22,6 +22,6 @@ For information send a DM to [Francesco](https://twitter.com/FrancescoCiull4)
 |15|Aditya Singh|https://twitter.com/Adityaksi|
 |16|Anurag|https://twitter.com/kr_anurag_|
 |17|Victor.|https://twitter.com/Victor_codejs|
-|18|Kunal Gupta| https://twitter.com/_kunalgupta__ |
+|18|Kunal Gupta| https://twitter.com/_kunalgupta__|https://github.com/kunal22-gupta
 |19|Pradumna Saraf|https://twitter.com/pradumna_saraf|https://github.com/Pradumnasaraf
 |20|Binate Noor|https://twitter.com/Binatenoor|
