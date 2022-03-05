@@ -25,3 +25,5 @@ For information send a DM to [Francesco](https://twitter.com/FrancescoCiull4)
 |18|Kunal Gupta| https://twitter.com/_kunalgupta__ |
 |19|Pradumna Saraf|https://twitter.com/pradumna_saraf|https://github.com/Pradumnasaraf
 |20|Binate Noor|https://twitter.com/Binatenoor|
+|21|Saugat Rimal|https://twitter.com/saugatrimal60|https://github.com/saugat-rimal
+
