@@ -69,3 +69,4 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |61|Stentorian (She/They)|https://twitter.com/StentorianTV/status/1499797843384713223|
 |62|Srikar|https://twitter.com/Srikarmk|
 |63|Arman Chand|https://twitter.com/arman74895017|
+|64|Arnav Puri|https://twitter.com/ArnavPuri|https://github.com/ArnavPuri|
