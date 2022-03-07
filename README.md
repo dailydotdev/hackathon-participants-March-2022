@@ -74,7 +74,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
 |68|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
-||||
+|69|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
 ||||
 ||||
 ||||
