@@ -39,3 +39,4 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |31|Darren|https://twitter.com/emberspirit00|
 |32|Ilyas babu|https://twitter.com/ely_bbu|
 |33|chuongtang.eth|https://twitter.com/ChuongTang3|
+|34|Arnav Puri|https://twitter.com/ArnavPuri|https://github.com/ArnavPuri|
