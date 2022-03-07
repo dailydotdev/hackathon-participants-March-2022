@@ -19,7 +19,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |11|Amartya Mahato|https://twitter.com/amartya_mahato|
 |12|Matt A.|https://twitter.com/Kur0taku|
 |13|Coder|https://twitter.com/The_Tech_In_Me|
-|14|Gaurav Tewari|https://twitter.com/OyeTewari|
+|14|Gaurav Tewari|https://twitter.com/OyeTewari|https://github.com/tewarig
 |15|Aditya Singh|https://twitter.com/Adityaksi|
 |16|Anurag|https://twitter.com/kr_anurag_|https://github.com/kr-anurag|
 |17|Victor.|https://twitter.com/Victor_codejs|
