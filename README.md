@@ -1,4 +1,5 @@
-# hackaton-participants-March-2022
+# Hackathon participants March 2022
+
 This is a list of all the participants of the daily.dev Hackathon in March 2022
 
 For information send a DM to [Francesco](https://twitter.com/intent/follow?screen_name=FrancescoCiull4)
