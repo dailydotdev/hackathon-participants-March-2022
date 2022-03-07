@@ -37,3 +37,5 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |29|Ifeanyi|https://twitter.com/not_ifeanyi|
 |30|Teri|https://twitter.com/terieyenike|
 |31|Darren|https://twitter.com/emberspirit00|
+|32|Ilyas babu|https://twitter.com/ely_bbu|
+|33|chuongtang.eth|https://twitter.com/ChuongTang3|
