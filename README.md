@@ -2,7 +2,7 @@
 
 This is a list of all the participants of the daily.dev Hackathon in March 2022
 
-For information send a DM to [Francesco](https://twitter.com/FrancescoCiull4)
+For information send a DM to [Francesco](https://twitter.com/intent/follow?screen_name=FrancescoCiull4)
 
 |#| Participant           | Twitter Handler | GitHub Handler
 |-| ------------- | ------------- | ------------- |
@@ -21,7 +21,7 @@ For information send a DM to [Francesco](https://twitter.com/FrancescoCiull4)
 |13|Coder|https://twitter.com/The_Tech_In_Me|
 |14|Gaurav Tewari|https://twitter.com/OyeTewari|
 |15|Aditya Singh|https://twitter.com/Adityaksi|
-|16|Anurag|https://twitter.com/kr_anurag_|
+|16|Anurag|https://twitter.com/kr_anurag_|https://github.com/kr-anurag|
 |17|Victor.|https://twitter.com/Victor_codejs|
 |18|Kunal Gupta| https://twitter.com/_kunalgupta__ |
 |19|Pradumna Saraf|https://twitter.com/pradumna_saraf|https://github.com/Pradumnasaraf
