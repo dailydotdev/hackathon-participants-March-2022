@@ -73,8 +73,9 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |65|oyee gourav|https://twitter.com/zadextroyer|
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
+|68|Matt A.|https://twitter.com/Kur0taku|
+|69|Bobby Iliev|https://twitter.com/bobbyiliev_|https://github.com/bobbyiliev|
 |68|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
-|69|Matt A.|https://twitter.com/Kur0taku|
 |70|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
 ||||
 ||||
