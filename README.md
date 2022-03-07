@@ -79,6 +79,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |70|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
 |71|Adarsh jaiswal|https://twitter.com/TwtAdarsh?t=YoP5bVgsu7Y_VGo9tpvi6g&s=09|https://github.com/Adarsh-jaiss|
 |72|Joao Felipe Santoro|https://twitter.com/jfelipesp|https://github.com/joao-felipe-santoro
-||||
+|73|Akshat Sharma |https://twitter.com/akshatcoderhash|https://github.com/akshatcoder-hash|
 ||||
 ||||
