@@ -39,3 +39,33 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |31|Darren|https://twitter.com/emberspirit00|
 |32|Ilyas babu|https://twitter.com/ely_bbu|
 |33|chuongtang.eth|https://twitter.com/ChuongTang3|
+|34|Mirkan1|https://twitter.com/mirkanOFmirkan|
+|35|v3|https://twitter.com/VivekVish2002|
+|36|Samarasimhareddy Kommireddy|https://twitter.com/Samara_Ssr|
+|37|Darshan Mandade|https://twitter.com/Darshanshub|
+|38|Harish Srinivasan|https://twitter.com/HarishS_033|
+|39|Ngọc Nguyễn Duy Minh|https://twitter.com/ngocoder|
+|40|Abhishek Sarkar|https://twitter.com/its_abhishekS|
+|41|Ilyas babu🌱|https://twitter.com/ely_bbu|
+|42|Fateh Alam|https://twitter.com/MFAB_2K5|
+|43|Tushar Srivastava|https://twitter.com/TusharS_23|
+|44|Shivendu Kumar|https://twitter.com/shivendu_kr_jha|
+|45|Salmankhan.Kpk|https://twitter.com/Salmankhan_kpk|
+|46|Salmankhan.Kpk|https://twitter.com/Salmankhan_kpk|
+|47|Toby Parent|https://twitter.com/TobiasRParent|
+|48|SRI AAKASH S|https://twitter.com/SRIAAKASHS1|
+|49|Rajvir Singh|https://twitter.com/SinghRajvir1313|
+|50|Aevum|https://twitter.com/Aevum88|
+|51|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
+|52|Nazeem|https://twitter.com/n4ze3m|
+|53|C’era una volta... Italia|https://twitter.com/era_italia|
+|54|Sebastián García|https://twitter.com/sebg96|
+|55|manas ranjan sahoo|https://twitter.com/imanassahoo|
+|56|IDev_IO|https://twitter.com/idev_io_|
+|57|VIGNESH K S|https://twitter.com/iamvvv0|
+|58|Aman Janwani|https://twitter.com/amanjanwani1486|
+|59|Shreyansh|https://twitter.com/shreyansh_ag|
+|60|Henok Ademtew|https://twitter.com/ademtew|
+|61|Stentorian (She/They)|https://twitter.com/StentorianTV/status/1499797843384713223|
+|62|Srikar|https://twitter.com/Srikarmk|
+|63|Arman Chand|https://twitter.com/arman74895017|
