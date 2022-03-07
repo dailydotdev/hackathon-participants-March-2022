@@ -34,3 +34,5 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |26|Mohit Yadav|https://twitter.com/Just_Moh_it|https://github.com/Just-Moh-it
 |27|Victor Souza|https://twitter.com/whale_victor|https://github.com/victor0x16|
 |28|Sonali|https://twitter.com/heyiamsra|
+|29|Ifeanyi|https://twitter.com/not_ifeanyi|
+|30|Teri|https://twitter.com/terieyenike|
