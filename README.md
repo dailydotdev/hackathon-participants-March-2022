@@ -13,7 +13,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |5|Osada Vidath Chandrasekara|https://twitter.com/OsadaVidath|
 |6|Sagnik Sahoo|https://twitter.com/heysagnik|https://github.com/heysagnik|
 |7|Suraj Vishwakarma|https://twitter.com/surajondev|
-|8|Avneesh Agarwal|https://twitter.com/avneesh0612|
+|8|Avneesh Agarwal|https://twitter.com/avneesh0612|https://github.com/avneesh0612
 |9|Sam Kihika|https://twitter.com/KihikaSamuel|
 |10|Rutam Prita Mishra|https://twitter.com/RutamHere|
 |11|Amartya Mahato|https://twitter.com/amartya_mahato|
