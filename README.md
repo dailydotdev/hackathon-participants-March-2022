@@ -74,6 +74,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
 |68|Matt A.|https://twitter.com/Kur0taku|
-||||
+|69|Joao Felipe Santoro|https://twitter.com/jfelipesp|https://github.com/joao-felipe-santoro
 ||||
 ||||
