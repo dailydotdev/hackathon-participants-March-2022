@@ -74,7 +74,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
 |68|Matt A.|https://twitter.com/Kur0taku|
-|69|Bobby Iliev|https://twitter.com/bobbyiliev_|https://github.com/bobbyiliev|
+|69|Bobby Iliev|[@bobbyiliev_](https://twitter.com/bobbyiliev_)|https://github.com/bobbyiliev|
 |68|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
 |70|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
 |71|Adarsh jaiswal|https://twitter.com/TwtAdarsh?t=YoP5bVgsu7Y_VGo9tpvi6g&s=09|https://github.com/Adarsh-jaiss|
