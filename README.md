@@ -81,5 +81,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |72|Joao Felipe Santoro|https://twitter.com/jfelipesp|https://github.com/joao-felipe-santoro
 |73|Akshat Sharma |https://twitter.com/akshatcoderhash|https://github.com/akshatcoder-hash|
 |74|Amit Wani|https://twitter.com/mtwn105|https://github.com/mtwn105
+|75|Yannick M.|https://twitter.com/dpnick_|
 ||||
 ||||
