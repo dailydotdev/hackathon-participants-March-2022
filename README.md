@@ -73,7 +73,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |65|oyee gourav|https://twitter.com/zadextroyer|
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
-||||
+|68|Matt A.|https://twitter.com/Kur0taku|
 ||||
 ||||
 ||||
