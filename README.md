@@ -30,3 +30,4 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |22|Meet Gor|https://twitter.com/MeetGor21|https://github.com/Mr-Destructive|
 |23|Anish De|https://twitter.com/AnishDe12020|https://github.com/AnishDe12020|
 |24|Sakthi saba |https://twitter.com/Sakthisaba1|
+|25|Saugat Rimal|https://twitter.com/saugatrimal60|https://github.com/saugat-rimal
