@@ -8,8 +8,8 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |-| ------------- | ------------- | ------------- |
 |1|/asciiden/    |https://twitter.com/asciiden|https://github.com/asciiden|
 |2|Sebastián García|https://twitter.com/sebg96|
-|3|Sanjaysinh Zala|https://twitter.com/SgHere_|
-|4|Ansh Varun|https://twitter.com/anshcasm|
+|3|Sanjaysinh Zala|https://twitter.com/SgHere_|https://github.com/Zalasanjay
+|4|Ansh Varun|https://twitter.com/anshcasm|https://github.com/anshcena|
 |5|Osada Vidath Chandrasekara|https://twitter.com/OsadaVidath|
 |6|Sagnik Sahoo|https://twitter.com/heysagnik|https://github.com/heysagnik|
 |7|Suraj Vishwakarma|https://twitter.com/surajondev|
@@ -74,7 +74,13 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
 |67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
 |68|Matt A.|https://twitter.com/Kur0taku|
-|99|Yannick M.|https://twitter.com/dpnick_|
-||||
+|69|Bobby Iliev|https://twitter.com/bobbyiliev_|https://github.com/bobbyiliev|
+|68|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
+|70|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
+|71|Adarsh jaiswal|https://twitter.com/TwtAdarsh?t=YoP5bVgsu7Y_VGo9tpvi6g&s=09|https://github.com/Adarsh-jaiss|
+|72|Joao Felipe Santoro|https://twitter.com/jfelipesp|https://github.com/joao-felipe-santoro
+|73|Akshat Sharma |https://twitter.com/akshatcoderhash|https://github.com/akshatcoder-hash|
+|74|Amit Wani|https://twitter.com/mtwn105|https://github.com/mtwn105
+|75|Yannick M.|https://twitter.com/dpnick_|
 ||||
 ||||
