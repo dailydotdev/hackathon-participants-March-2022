@@ -94,7 +94,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |86|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
 |87|Shyam Parajuli|https://twitter.com/ShyamParajuli60|
 |88|Yash Lotan|https://twitter.com/YashLotan|
-|89|Dazly Gonsalves|https://twitter.com/dazly11|
-|90|Krutik|https://twitter.com/reboot13_dev|
+|89|Krutik|https://twitter.com/reboot13_dev|
+|90|||
 |91|||
-|92|||
