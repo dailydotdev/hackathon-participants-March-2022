@@ -84,5 +84,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |75|Yannick M.|https://twitter.com/dpnick_|
 |76|Sid|https://twitter.com/SiddharthShyn|https://github.com/SiddharthShyniben|
 |77|Freddy González|https://twitter.com/fredoist|https://github.com/fredoist
+|78|Youssef Rabei 🚀 |https://twitter.com/youssefrabeiii|https://github.com/youssefrabeiii
 ||||
 ||||
