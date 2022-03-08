@@ -51,7 +51,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |43|Tushar Srivastava|https://twitter.com/TusharS_23|
 |44|Shivendu Kumar|https://twitter.com/shivendu_kr_jha|
 |45|Salmankhan.Kpk|https://twitter.com/Salmankhan_kpk|
-|46|||
+|46|Lavakush biyani ☄|https://twitter.com/lavkushbiyani1|
 |47|Toby Parent|https://twitter.com/TobiasRParent|
 |48|SRI AAKASH S|https://twitter.com/SRIAAKASHS1|
 |49|Rajvir Singh|https://twitter.com/SinghRajvir1313|
