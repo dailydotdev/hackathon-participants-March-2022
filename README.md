@@ -89,4 +89,5 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |80|Dazly Gonsalves|https://twitter.com/dazly11|https://github.com/dazlygonsalves
 |81|Mr Kumar|https://twitter.com/mrkumar_in|https://github.com/mrkumar98
 |82|Krutik Raut |https://twitter.com/reboot13_dev| https://github.com/reboot13-git
+|83|Shyam Parajuli|https://twitter.com/ShyamParajuli60|https://github.com/shyam-parajuli
 ||||
