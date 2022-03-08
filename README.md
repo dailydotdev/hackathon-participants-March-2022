@@ -87,5 +87,6 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |78|Youssef Rabei 🚀 |https://twitter.com/youssefrabeiii|https://github.com/youssefrabeiii
 |79|Aime Ig.|https://twittter.com/AimeIgirimpuhwe|https://github.com/igaimerca
 |80|Dazly Gonsalves|https://twitter.com/dazly11|https://github.com/dazlygonsalves
+|81|Mr Kumar|https://twitter.com/mrkumar_in|https://github.com/mrkumar98
 ||||
 ||||
