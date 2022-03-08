@@ -46,36 +46,35 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |38|Harish Srinivasan|https://twitter.com/HarishS_033|
 |39|Ngọc Nguyễn Duy Minh|https://twitter.com/ngocoder|
 |40|Abhishek Sarkar|https://twitter.com/its_abhishekS|
-|41|Ilyas babu🌱|https://twitter.com/ely_bbu|
-|42|Fateh Alam|https://twitter.com/MFAB_2K5|
-|43|Tushar Srivastava|https://twitter.com/TusharS_23|
-|44|Shivendu Kumar|https://twitter.com/shivendu_kr_jha|
-|45|Salmankhan.Kpk|https://twitter.com/Salmankhan_kpk|
-|46|Lavakush biyani ☄|https://twitter.com/lavkushbiyani1|
-|47|Toby Parent|https://twitter.com/TobiasRParent|
-|48|SRI AAKASH S|https://twitter.com/SRIAAKASHS1|
-|49|Rajvir Singh|https://twitter.com/SinghRajvir1313|
-|50|Aevum|https://twitter.com/Aevum88|
-|51|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
-|52|Nazeem|https://twitter.com/n4ze3m|
-|53|C’era una volta... Italia|https://twitter.com/era_italia|
-|54|Sebastián García|https://twitter.com/sebg96|
-|55|manas ranjan sahoo|https://twitter.com/imanassahoo|
-|56|IDev_IO|https://twitter.com/idev_io_|
-|57|VIGNESH K S|https://twitter.com/iamvvv0|
-|58|Aman Janwani|https://twitter.com/amanjanwani1486|
-|59|Shreyansh|https://twitter.com/shreyansh_ag|
-|60|Henok Ademtew|https://twitter.com/ademtew|
-|61|Stentorian (She/They)|https://twitter.com/StentorianTV/status/1499797843384713223|
-|62|Srikar|https://twitter.com/Srikarmk|
-|63|Arman Chand|https://twitter.com/arman74895017|
-|64|Arnav Puri|https://twitter.com/ArnavPuri|https://github.com/ArnavPuri|
-|65|oyee gourav|https://twitter.com/zadextroyer|
-|66|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
-|67|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
-|68|Matt A.|https://twitter.com/Kur0taku|
-|69|Bobby Iliev|[@bobbyiliev_](https://twitter.com/bobbyiliev_)|https://github.com/bobbyiliev|
-|68|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
+|41|Fateh Alam|https://twitter.com/MFAB_2K5|
+|42|Tushar Srivastava|https://twitter.com/TusharS_23|
+|43|Shivendu Kumar|https://twitter.com/shivendu_kr_jha|
+|44|Salmankhan.Kpk|https://twitter.com/Salmankhan_kpk|
+|45|Lavakush biyani ☄|https://twitter.com/lavkushbiyani1|
+|46|Toby Parent|https://twitter.com/TobiasRParent|
+|47|SRI AAKASH S|https://twitter.com/SRIAAKASHS1|
+|48|Rajvir Singh|https://twitter.com/SinghRajvir1313|
+|49|Aevum|https://twitter.com/Aevum88|
+|50|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
+|51|Nazeem|https://twitter.com/n4ze3m|
+|52|C’era una volta... Italia|https://twitter.com/era_italia|
+|53|Sebastián García|https://twitter.com/sebg96|
+|54|manas ranjan sahoo|https://twitter.com/imanassahoo|
+|55|IDev_IO|https://twitter.com/idev_io_|
+|56|VIGNESH K S|https://twitter.com/iamvvv0|
+|57|Aman Janwani|https://twitter.com/amanjanwani1486|
+|58|Shreyansh|https://twitter.com/shreyansh_ag|
+|59|Henok Ademtew|https://twitter.com/ademtew|
+|60|Stentorian (She/They)|https://twitter.com/StentorianTV/status/1499797843384713223|
+|61|Srikar|https://twitter.com/Srikarmk|
+|62|Arman Chand|https://twitter.com/arman74895017|
+|63|Arnav Puri|https://twitter.com/ArnavPuri|https://github.com/ArnavPuri|
+|64|oyee gourav|https://twitter.com/zadextroyer|
+|65|Sam Kihika - Web Developer|https://twitter.com/KihikaSamuel|
+|66|Subham Choudhury (He/Him)|https://twitter.com/SubhamC_14|
+|67|Matt A.|https://twitter.com/Kur0taku|
+|68|Bobby Iliev|[@bobbyiliev_](https://twitter.com/bobbyiliev_)|https://github.com/bobbyiliev|
+|69|Suraj Vishwakarma🚀|https://twitter.com/surajondev|
 |70|Harsh Chhabra |https://twitter.com/harshchhabra37|https://github.com/harshchhabra37
 |71|Adarsh jaiswal|https://twitter.com/TwtAdarsh?t=YoP5bVgsu7Y_VGo9tpvi6g&s=09|https://github.com/Adarsh-jaiss|
 |72|Joao Felipe Santoro|https://twitter.com/jfelipesp|https://github.com/joao-felipe-santoro
@@ -83,6 +82,12 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |74|Amit Wani|https://twitter.com/mtwn105|https://github.com/mtwn105
 |75|Yannick M.|https://twitter.com/dpnick_|
 |76|Sid|https://twitter.com/SiddharthShyn|https://github.com/SiddharthShyniben|
-|77|Freddy González|https://twitter.com/fredoist|https://github.com/fredoist|
-|78|Estee Tey|https://twitter.com/estee_tey|https://github.com/lyqht|
+|77|Freddy González|https://twitter.com/fredoist|https://github.com/fredoist
+|78|Youssef Rabei 🚀 |https://twitter.com/youssefrabeiii|https://github.com/youssefrabeiii
+|79|Aime Ig.|https://twittter.com/AimeIgirimpuhwe|https://github.com/igaimerca
+|80|Dazly Gonsalves|https://twitter.com/dazly11|https://github.com/dazlygonsalves
+|81|Mr Kumar|https://twitter.com/mrkumar_in|https://github.com/mrkumar98
+|82|Krutik Raut |https://twitter.com/reboot13_dev| https://github.com/reboot13-git
+|83|Shyam Parajuli|https://twitter.com/ShyamParajuli60|https://github.com/shyam-parajuli
+|84|Estee Tey|https://twitter.com/estee_tey|https://github.com/lyqht|
 ||||
