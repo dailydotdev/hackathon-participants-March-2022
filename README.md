@@ -90,4 +90,11 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |82|Krutik Raut |https://twitter.com/reboot13_dev| https://github.com/reboot13-git
 |83|Shyam Parajuli|https://twitter.com/ShyamParajuli60|https://github.com/shyam-parajuli
 |84|Estee Tey|https://twitter.com/estee_tey|https://github.com/lyqht|
-||||
+|85|Kamil Raithatha|https://twitter.com/kamil_105|
+|86|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
+|87|Shyam Parajuli|https://twitter.com/ShyamParajuli60|
+|88|Yash Lotan|https://twitter.com/YashLotan|
+|89|Dazly Gonsalves|https://twitter.com/dazly11|
+|90|Krutik|https://twitter.com/reboot13_dev|
+|91|||
+|92|||
