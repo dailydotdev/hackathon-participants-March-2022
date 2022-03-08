@@ -96,5 +96,5 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |88|Yash Lotan|https://twitter.com/YashLotan|
 |89|Dazly Gonsalves|https://twitter.com/dazly11|
 |90|Krutik|https://twitter.com/reboot13_dev|
-|91|||
+|91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
 |92|||
