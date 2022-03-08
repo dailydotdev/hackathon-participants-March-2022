@@ -33,7 +33,7 @@ Open a PR and put your name and Twitter handler (if any), and your GitHub accoun
 - 🥈 Second place: 250$
 - 🥉 Third PLace 100$
 
-(Please not that the prizes are in Amazon Gift Cards)
+(Please note that the rewards are Amazon Gift Cards)
 
 ### 🕶️ Swag for the first 100 participants
 
@@ -41,7 +41,7 @@ The first 100 participants will receive Free Stickers!
 
 ### ⌛ Duration:
 
-The start date is March 7th, 2022
+The Start date is March 7th, 2022
 
 The End date is March 21, 2022
 
