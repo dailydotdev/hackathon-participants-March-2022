@@ -154,6 +154,9 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 |86|Muhammed anas.v|https://twitter.com/Muhammedanasv10|
 |87|Shyam Parajuli|https://twitter.com/ShyamParajuli60|
 |88|Yash Lotan|https://twitter.com/YashLotan|
-|89|Krutik|https://twitter.com/reboot13_dev|
-|90|||
-|91|||
+|89|Dazly Gonsalves|https://twitter.com/dazly11|
+|90|Krutik|https://twitter.com/reboot13_dev|
+|91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
+|92|||
+|93|||
+|94|||
