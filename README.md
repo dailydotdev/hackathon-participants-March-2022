@@ -176,7 +176,7 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 |108|Shivam Gupta|https://twitter.com/gpt499|
 |109|Kamil Raithatha|https://twitter.com/kamil_105|
 |110|Yash Lotan|https://twitter.com/YashLotan|
-|111|||
+|111|Yudai Heber|https://twitter.com/creator_yudai|https://github.com/Yudai-creator|
 |112|||
 |113|||
 |114|||
