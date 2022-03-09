@@ -43,7 +43,7 @@ The first 100 participants will receive Free Stickers!
 
 The Start date is March 7th, 2022
 
-The End date is March 21, 2022
+⚠️ **The last chance to send a submission to francesco@daily.dev is March 21, 2022**
 
 ### ✅ How to submit your project/idea:
 
