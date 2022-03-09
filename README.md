@@ -157,6 +157,5 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 |89|Dazly Gonsalves|https://twitter.com/dazly11|
 |90|Krutik|https://twitter.com/reboot13_dev|
 |91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
-|92|||
-|93|||
-|94|||
+|92|Sameera Shaik|https://twitter.com/Tech_junkee|
+||||
