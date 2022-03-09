@@ -1,8 +1,68 @@
-# Hackathon participants March 2022
+# daily.dev Hackathon 2022
 
-This is a list of all the participants of the daily.dev Hackathon in March 2022
+![image](https://user-images.githubusercontent.com/18360871/157296297-7a9e401d-c4d2-4e9b-939e-c4782b048d17.png)
+
 
 For information send a DM to [Francesco](https://twitter.com/intent/follow?screen_name=FrancescoCiull4)
+
+## Information
+
+### 🛑 Before you start
+
+Before you start, you should watch this video about Shareable bookmarks in daily.dev
+
+Watch this => https://twitter.com/dailydotdev/status/1500763039666253829
+
+### ⚽ GOAL
+
+The goal is to use the daily.dev RSS feed in a creative way.
+
+### 📝 Topic: RSS feed use-case
+
+By using your [RSS feed](https://en.wikipedia.org/wiki/RSS), you can propose a good idea on how this can be integrated into other platforms.
+
+The solution can include code, a guide, written text or any type of content!
+
+### ✒️ How to sign up:
+
+Open a PR and put your name and Twitter handler (if any), and your GitHub account
+
+### 🤑 Prizes
+
+- 🥇 First Place: 500$
+- 🥈 Second place: 250$
+- 🥉 Third PLace 100$
+
+(Please note that the rewards are Amazon Gift Cards)
+
+### 🕶️ Swag for the first 100 participants
+
+The first 100 participants will receive Free Stickers!
+
+### ⌛ Duration:
+
+The Start date is March 7th, 2022
+
+The End date is March 21, 2022
+
+### ✅ How to submit your project/idea:
+
+You can submit a project/tutorial by sending an email to francesco@daily.dev 
+
+The mail shouild contain
+- In the Subject: [Hackaton2022]
+- In the body, the name (full name) of the participant.
+- any meaningful attachments (pdf file work the best)
+- link to the project (if any)
+
+### 🏆 Winners announcement
+
+Winners will be announced on the 24th of March, 4pm CET
+
+## Participants
+
+This is a list of all the participants of the daily.dev Hackathon in March 202
+
 
 |#| Participant           | Twitter Handle | GitHub Handle
 |-| ------------- | ------------- | ------------- |
@@ -98,3 +158,5 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |90|Krutik|https://twitter.com/reboot13_dev|
 |91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
 |92|||
+|93|||
+|94|||
