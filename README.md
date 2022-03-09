@@ -64,7 +64,7 @@ Winners will be announced on the 24th of March, 4pm CET
 This is a list of all the participants of the daily.dev Hackathon in March 202
 
 
-|#| Participant           | Twitter Handle | GitHub Handle
+|#| Participant           | Twitter/Linkedin Handle | GitHub Handle
 |-| ------------- | ------------- | ------------- |
 |1|/asciiden/    |https://twitter.com/asciiden|https://github.com/asciiden|
 |2|Sebastián García|https://twitter.com/sebg96|
@@ -159,3 +159,17 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 |91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
 |92|Sameera Shaik|https://twitter.com/Tech_junkee|
 |93|Brahma Teja Ponnuru|https://twitter.com/tejap463|https://github.com/teja463|
+|94|Grace Hephzibah M|https://www.linkedin.com/in/grace-hephzibah-m-937335204/|
+|95|Alexander Xavier Cubas Pérez|https://www.linkedin.com/in/axcpdev/|
+|96|Alok Kumar Khatri|https://www.linkedin.com/in/alok-kumar-khatri-3283bb162/|
+|97|Chris (Ndanyi) Achinga|https://www.linkedin.com/in/chrisachinga/|
+|98|Ezekiel Lawson|https://www.linkedin.com/in/lawson-ezekiel/|
+|99|Lakindu Hewawasam|https://www.linkedin.com/in/lakindu-hewawasam-0820441ab/|
+|100|Hamza Rauf |https://www.linkedin.com/in/hamza-rauf-08b776148/|
+|101|Talha Amir|https://www.linkedin.com/in/talha-amir00/|
+|102|AMAN K.A|https://www.linkedin.com/in/aman-k-a-303561183/|
+|103|||
+|104|||
+|105|||
+|106|||
+|107|||
