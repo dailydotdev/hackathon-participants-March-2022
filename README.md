@@ -33,7 +33,7 @@ Open a PR and put your name and Twitter handler (if any), and your GitHub accoun
 - 🥈 Second place: 250$
 - 🥉 Third PLace 100$
 
-(Please not that the prizes are in Amazon Gift Cards)
+(Please note that the rewards are Amazon Gift Cards)
 
 ### 🕶️ Swag for the first 100 participants
 
@@ -41,7 +41,7 @@ The first 100 participants will receive Free Stickers!
 
 ### ⌛ Duration:
 
-The start date is March 7th, 2022
+The Start date is March 7th, 2022
 
 The End date is March 21, 2022
 
@@ -156,5 +156,6 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 |88|Yash Lotan|https://twitter.com/YashLotan|
 |89|Dazly Gonsalves|https://twitter.com/dazly11|
 |90|Krutik|https://twitter.com/reboot13_dev|
-|91|Brahma Teja Ponnuru|https://twitter.com/tejap463|https://github.com/teja463|
-|92|||
+|91|Ritesh Kumar|https://twitter.com/dewdropxD|https://github.com/0xRitesh|
+|92|Sameera Shaik|https://twitter.com/Tech_junkee|
+|93|Brahma Teja Ponnuru|https://twitter.com/tejap463|https://github.com/teja463|
