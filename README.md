@@ -91,7 +91,7 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 | 24  | Sakthi saba                  | https://twitter.com/Sakthisaba1                             |
 | 25  | Saugat Rimal                 | https://twitter.com/saugatrimal60                           | https://github.com/saugat-rimal        |
 | 26  | Mohit Yadav                  | https://twitter.com/Just_Moh_it                             | https://github.com/Just-Moh-it         |
-| 27  | Victor Souza                 | https://twitter.com/whale_victor                            | https://github.com/victor0x16          |
+| 27  | Victor Souza                 | https://twitter.com/victor0x16                            | https://github.com/victor0x16          |
 | 28  | Sonali                       | https://twitter.com/heyiamsra                               |
 | 29  | Ifeanyi                      | https://twitter.com/not_ifeanyi                             |
 | 30  | Teri                         | https://twitter.com/terieyenike                             |
