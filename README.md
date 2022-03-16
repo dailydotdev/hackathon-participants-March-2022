@@ -176,7 +176,7 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 | 109 | Kamil Raithatha              | https://twitter.com/kamil_105                               |
 | 110 | Yash Lotan                   | https://twitter.com/YashLotan                               |
 | 111 | Yudai H                      | https://twitter.com/creator_yudai                           | https://github.com/Yudai-creator       |
-| 112 |                              |                                                             |
+| 112 | Annoh Karlgusta              | https://twitter.com/annoh_karlgusta                         | https://github.com/KarlGusta
 | 113 |                              |                                                             |
 | 114 |                              |                                                             |
 | 115 |                              |                                                             |
