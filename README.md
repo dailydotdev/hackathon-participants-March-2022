@@ -50,7 +50,7 @@ You can submit a project/tutorial by sending an email to francesco@daily.dev
 
 The mail shouild contain
 
-- In the Subject: [Hackaton2022]
+- In the Subject: [Hackathon2022]
 - In the body, the name (full name) of the participant.
 - any meaningful attachments (pdf file work the best)
 - link to the project (if any)
