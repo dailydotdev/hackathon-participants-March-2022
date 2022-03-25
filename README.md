@@ -80,7 +80,7 @@ This is a list of all the participants of the daily.dev Hackathon in March 202
 | 13  | Coder                        | https://twitter.com/The_Tech_In_Me                          |
 | 14  | Gaurav Tewari                | https://twitter.com/OyeTewari                               | https://github.com/tewarig             |
 | 15  | Aditya Singh                 | https://twitter.com/Adityaksi                               |
-| 16  | Anurag                       | https://twitter.com/kr_anurag_                              | https://github.com/kr-anurag           |
+| 16  | Anurag                       | [https://twitter.com/kr_anurag_](https://twitter.com/kr_anurag_)                              | https://github.com/kr-anurag           |
 | 17  | Victor.                      | https://twitter.com/Victor_codejs                           |
 | 18  | Kunal Gupta                  | https://twitter.com/_kunalgupta__                           | https://github.com/kunal22-gupta       |
 | 19  | Pradumna Saraf               | https://twitter.com/pradumna_saraf                          | https://github.com/Pradumnasaraf       |
