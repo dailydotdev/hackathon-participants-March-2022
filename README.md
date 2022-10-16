@@ -55,9 +55,16 @@ The mail shouild contain
 - any meaningful attachments (pdf file work the best)
 - link to the project (if any)
 
-### 🏆 Winners announcement
+## 🏆 Winners
 
-Winners will be announced on the 24th of March, 4pm CET
+> **Announcement tweet [link](https://twitter.com/dailydotdev/status/1507003555110027276?s=20&t=1jqwj4nvk0KO6uuMStV1Ig)**
+
+| # | Name                                                          | Project Link                                                |
+|--| :-------------------------------------------------------------:| -------------------------------------------------------- |
+|🥇 (Winner)| [Pradumna Saraf](https://github.com/Pradumnasaraf)    | [`Daily Dev Really Simple Syndication (DDRSS) Bot`](https://github.com/Pradumnasaraf/DDRSS)
+|🥈 (2nd)   | [Amit Wani](https://github.com/mtwn105)               | [`Daily.Dev Bookmarks to Twitter`](https://github.com/mtwn105/dailydev-rss-to-twitter-weekly-bookmarks)|
+|🥉 (3rd)   | [Muhammed Nazeem](https://github.com/n4ze3m)          | [`RSS Bookmark bot`](https://github.com/n4ze3m/rss-bookmark-bot)|
+
 
 ## Participants
 
